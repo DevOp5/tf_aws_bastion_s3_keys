@@ -5,7 +5,7 @@
 ##############
 # Ubuntu
 apt-get update
-apt-get install python-pip jq -y
+apt-get install python-pip jq -y --force-yes
 #####################
 
 # Amazon Linux (RHEL) - NAT instances
